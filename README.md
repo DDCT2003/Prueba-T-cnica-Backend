@@ -50,6 +50,10 @@ Aplicación web fullstack compuesta por dos repositorios:
     ```bash
     java -jar target/picoyplaca_backend-0.0.1-SNAPSHOT.jar
     ```
+    En caso de error ejecutar en bash (no en una terminal de windows) la siguiente linea:
+     ```bash
+    java -jar target/picoyplaca_backend-*.jar
+    ```
 
     El backend quedará disponible en [http://localhost:8080/](http://localhost:8080/)
 

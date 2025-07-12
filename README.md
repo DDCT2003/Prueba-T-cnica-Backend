@@ -48,7 +48,7 @@ Aplicación web fullstack compuesta por dos repositorios:
 3. **Ejecuta el backend:**
 
     ```bash
-    java -jar target/picoyplaca_backend-*.jar
+    java -jar target/picoyplaca_backend-0.0.1-SNAPSHOT.jar
     ```
 
     El backend quedará disponible en [http://localhost:8080/](http://localhost:8080/)

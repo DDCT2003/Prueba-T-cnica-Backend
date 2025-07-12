@@ -38,6 +38,7 @@ Aplicación web fullstack compuesta por dos repositorios:
 
 2. **Compila el proyecto:**
 
+    Dentro del directorio del proyecto ejecuta la siguiente linea:
    ```bash
         mvn clean package
    ```

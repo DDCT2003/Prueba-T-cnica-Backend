@@ -40,7 +40,7 @@ Aplicación web fullstack compuesta por dos repositorios:
 
     Dentro del directorio del proyecto ejecuta la siguiente linea:
    ```bash
-        mvn clean package
+   mvn clean package
    ```
 
     Esto descargará todas las dependencias necesarias y generará el archivo JAR en la carpeta `target/`.

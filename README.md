@@ -92,13 +92,16 @@ La respuesta será un JSON indicando si el vehículo puede circular o no.
 
 2. **Instala las dependencias:**
 
-    npm install
-  
+       ```bash
+            npm install
+       ```
+    
 
-3. **Inicia el servidor de desarrollo:**
+4. **Inicia el servidor de desarrollo:**
 
-    ng serve --open
-
+    ```bash
+      ng serve --open
+    ```
     - Esto abrirá la app automáticamente en tu navegador en  
       [http://localhost:4200/](http://localhost:4200/)
 

@@ -38,9 +38,9 @@ Aplicación web fullstack compuesta por dos repositorios:
 
 2. **Compila el proyecto:**
 
-        ```bash
+   ```bash
         mvn clean package
-        ```
+   ```
 
     Esto descargará todas las dependencias necesarias y generará el archivo JAR en la carpeta `target/`.
 
@@ -92,15 +92,12 @@ La respuesta será un JSON indicando si el vehículo puede circular o no.
 
 2. **Instala las dependencias:**
 
-    ```bash
     npm install
-    ```
+  
 
 3. **Inicia el servidor de desarrollo:**
 
-    ```bash
     ng serve --open
-    ```
 
     - Esto abrirá la app automáticamente en tu navegador en  
       [http://localhost:4200/](http://localhost:4200/)
@@ -110,7 +107,6 @@ La respuesta será un JSON indicando si el vehículo puede circular o no.
 ## Uso de la Aplicación
 
 - Ingresa la placa, fecha y hora a consultar.
-- Marca la opción "**¿Es mayor de edad y tiene permiso especial para circular?**" si aplica.
 - Haz clic en **Consultar**.
 - El sistema mostrará si el vehículo puede circular o no.
 
